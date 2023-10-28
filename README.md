@@ -13,6 +13,8 @@ My concise notes summarizing key chapters from widely-read Computer Science book
 - [Chapter 03: Know Your Variables: primitives and references](https://github.com/xoraus/CS-Books-Summarized/blob/main/HeadFirst-Java/03.Chapter-03.md)
 - [Chapter 04: How Objects Behave: methods use instance variables](https://github.com/xoraus/CS-Books-Summarized/blob/main/HeadFirst-Java/04.Chapter-04.md)
 - [Chapter 05: Extra-Strength Methods: writing a program](https://github.com/xoraus/CS-Books-Summarized/blob/main/HeadFirst-Java/05.Chapter-05.md)
+- [Using the Java Library: get to know the Java API](https://github.com/xoraus/CS-Books-Summarized/blob/main/HeadFirst-Java/06.Chapter-06.md) 🚧
+- [Better Living in Objectville: inheritance and polymorphism ](https://github.com/xoraus/CS-Books-Summarized/blob/main/HeadFirst-Java/07.Chapter-07.md)
 
 
 ##  System Design
